@@ -1,0 +1,46 @@
+.ProductData{
+  padding: 4px 10px;
+}
+.ProductImage{
+
+    width:100%;
+    max-width:80px;
+    border:1px solid transparent;
+    border-radius: 8px;
+    
+    
+    margin-top: 10px;
+    margin-left: 0%;
+    cursor: pointer;
+    resize: inherit;
+  }
+  .SelectedProductImage{
+    border: 1px solid red;
+  }
+  
+  .ProductData{
+    font-size:large;
+    
+    
+    
+   
+  }
+  .FeatureItem{
+    
+    min-width: 50px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+    text-align: center;
+    box-sizing: content-box;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    font-weight: 600;
+  }
+  
+  .SelectedFeatureitem{
+    color:black;
+    background-color: greenyellow;
+  }
+  

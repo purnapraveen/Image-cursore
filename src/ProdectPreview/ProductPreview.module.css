@@ -1,0 +1,10 @@
+.ProductPreview {
+  
+    width: 100%;
+    resize: inherit;
+  } 
+  .ProductPreview >img{
+    
+    width: 100%;
+    
+  }
